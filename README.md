@@ -47,7 +47,7 @@ To remove Configurator from the cluster.
 $ helm delete configurator gopaddle_configurator/configurator
 ```
 
-### License 
+## ommit should be there
 
 [Apache License Version 2.0](/LICENSE.md)
 
